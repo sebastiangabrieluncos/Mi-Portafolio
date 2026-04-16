@@ -1,14 +1,13 @@
 
 :root {
-  --bg-principal: #FAF5E8;    
-  --bg-secundario: #F0E5D5;   
-  --texto-cuerpo: #283337;    
-  --texto-titulo: #15161A;    
-  --color-acento: #A86D39;    
-  --color-borde: #B7BAC0;     
+  --bg-principal: #F3F4F6;    
+  --bg-secundario: #FFFFFF;   
+  --texto-cuerpo: #374151;    
+  --texto-titulo: #111827;    
+  --color-acento: #2563EB;    
+  --color-borde: #D1D5DB;     
   --blanco: #FFFFFF;
 }
-
 
 * {
   margin: 0;
