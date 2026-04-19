@@ -300,3 +300,22 @@ header {
   color: var(--bg-principal);
   font-size: 0.9rem;
 }
+
+@media (max-width: 768px) {
+  .hero-content {
+    flex-direction: column-reverse; 
+    text-align: center;
+  }
+  
+  .hero-image {
+    justify-content: center;
+  }
+  
+  .proyectos-card {
+    width: 100%; /
+  }
+  
+  .navbar ul {
+    display: none;
+  }
+}
